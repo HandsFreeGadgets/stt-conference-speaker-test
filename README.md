@@ -3,7 +3,7 @@
 
 Repository, das verschiedene Speech-To-Text (STT)-Lösungen und Konferenzlautsprecher testet, um sie zur Transkription von Befehlen für Geräteinteraktionen zu verwenden.
 
-[Englische Version](README-de.md).
+[Englische Version](README-en.md).
 
 
 # Finanzierung
