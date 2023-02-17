@@ -1,0 +1,13 @@
+venv
+venv-whispher
+.python-version
+.idea
+*.srt
+*.wav.txt
+*.wav.vtt
+*.log
+key
+*.deb
+samples
+*.tsv
+region
